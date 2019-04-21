@@ -2,6 +2,8 @@
 
 A digitally combined puzzle game for players of all ages. Think carefully about the decomposition of numbers and the path of merging, and try to beat computer players, let's try it!
 
+[image](https://github.com/ttvkenvin/Digital-puzzle-merger/blob/master/1.png)
+[image](https://github.com/ttvkenvin/Digital-puzzle-merger/blob/master/2.png)
 # デジタルパズル合併
 
 すべての年齢のプレーヤーのためのデジタル複合パズルゲーム。 数字の分解とマージのパスについて慎重に考えて、コンピュータプレイヤーを倒してみてください。
@@ -14,6 +16,8 @@ A digitally combined puzzle game for players of all ages. Think carefully about 
 
 모든 연령대의 플레이어를위한 디지털 결합 퍼즐 게임. 숫자의 분해와 병합의 경로에 대해 신중히 생각하고 컴퓨터 플레이어를이기려고 시도해보십시오!
 
+[image](https://github.com/ttvkenvin/Digital-puzzle-merger/blob/master/3.png)
+[image](https://github.com/ttvkenvin/Digital-puzzle-merger/blob/master/4.png)
 # tel:+65 66413982
 # e-mail:e2ee8mol@163.com
 # Please contact us if you find any bugs, thank you!
