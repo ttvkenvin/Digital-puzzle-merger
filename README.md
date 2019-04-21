@@ -13,3 +13,7 @@ A digitally combined puzzle game for players of all ages. Think carefully about 
 # 디지털 퍼즐 합병
 
 모든 연령대의 플레이어를위한 디지털 결합 퍼즐 게임. 숫자의 분해와 병합의 경로에 대해 신중히 생각하고 컴퓨터 플레이어를이기려고 시도해보십시오!
+
+# tel:+65 66413982
+# e-mail:e2ee8mol@163.com
+# Please contact us if you find any bugs, thank you!
